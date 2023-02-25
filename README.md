@@ -1,7 +1,7 @@
 ### Hi there 👋  I'm Beatrice 🤓
 
 I'm currently studying <b> Data Analytics</b> at Boolean Tech Academy 💻🖥️<br>
-& I'm currently a <b>PhD candidate</b> in the University of Geneva (Switzerland) 🧠
+& I'm currently a <b>PhD candidate</b> at the University of Geneva (Switzerland) 🧠
 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <br><br>
 
