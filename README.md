@@ -1,7 +1,7 @@
 ### Hi there 👋  I'm Beatrice 🤓
 
-I've just finished a 6-month course about <b> Data Analytics</b> at Boolean Tech Academy 💻🖥️<br>
-& I'm currently a <b>PhD candidate</b> at the University of Geneva (Switzerland) 🧠
+I'm an Italian <b> Data Analyst </b> 💻🖥️<br>
+& I earned a PhD in Developmental Psychology at the University of Geneva (Switzerland) 🧠
 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) <br><br>
 
